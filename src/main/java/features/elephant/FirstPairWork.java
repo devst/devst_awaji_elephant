@@ -9,7 +9,7 @@ public class FirstPairWork implements features.FirstPairWork {
 
 	@Override
 	public String getMembers() {
-		return "Momontyo & Kuchitama";
+		return null;
 	}
 
 }
